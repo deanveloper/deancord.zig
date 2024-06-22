@@ -1,1 +1,1 @@
-const Client = @import("./gateway/Client.zig");
+pub const Client = @import("./gateway/Client.zig");
